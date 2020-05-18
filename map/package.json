@@ -19,7 +19,7 @@
   "dependencies": {},
   "devDependencies": {
     "babel-eslint": "^7.2.3",
-    "eslint": "^3.19.0",
+    "eslint": "^7.0.0",
     "gulp": "^3.9.1",
     "gulp-less": "^3.3.0",
     "gulp-serve": "^1.4.0",
